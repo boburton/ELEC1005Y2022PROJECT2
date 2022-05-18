@@ -9,7 +9,11 @@ from turtle import back
 from webbrowser import BackgroundBrowser
 import pygame #importing module pygame
 import time #importing time module 
+<<<<<<< main
 from pygame.locals import KEYDOWN, K_RIGHT, K_LEFT, K_UP, K_DOWN, K_ESCAPE, K_RETURN #importing the keys 
+=======
+from pygame.locals import KEYDOWN, K_RIGHT, K_LEFT, K_UP, K_DOWN, K_ESCAPE #importing the keys 
+>>>>>>> local
 #key_down means that a key has been pressed
 from pygame.locals import QUIT
 from pygame import mixer
